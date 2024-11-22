@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @Rudra-2007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center" style"border-radius:15px">
+  <a href="https://discord.gg/5dUb7M2qCj" title="Discord Server" target="_blank">
+    <img src="https://cdn.discordapp.com/banners/1069185336913170503/5d74ce8347210fb362c092292c85a184.png" style"width: 100%;border-radius:15px">
+  </a>
+</div>
 
-<!---
-Rudra-2007/Rudra-2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## <div align="center">I'm Rudra (xrudrax), mainly a Discord Bot Developer!</div>  
+
+> I have working with on a hobby project called ["Skylight"]
+> My Discord: https://discord.gg/ncop
+
+<a href="https://discord.com/users/915930776288247820/"><img src="https://discord.c99.nl/widget/theme-3/915930776288247820.png"></a> <a href="https://discord.gg/ncop"><img src="https://discord.com/api/guilds/1162359083102384189/widget.png?style=banner2"></a>
+
+***
