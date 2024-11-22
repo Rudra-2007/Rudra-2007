@@ -18,3 +18,5 @@
 
 You can support me by...
 > - [Inviting](https://discord.com/api/oauth2/authorize?client_id=939450233358811187&scope=bot+applications.commands&permissions=1374891928950) or/and [voting](https://top.gg/bot/939450233358811187/vote) Skylight *(my new discord bot project)*
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrudrax&show_icons=true&theme=radical)
